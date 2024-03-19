@@ -1,7 +1,7 @@
 # codtechitsolutions-internship
-#Title : CodeTech IT Solutions Internship - Task Documentation: Simple Calculator with Advance Features
+• Title : CodeTech IT Solutions Internship - Task Documentation: Simple Calculator with Advance Features
 
-##Intern Information: 
+• *Intern Information:* 
     #Name: Md. Ammaar Quadri
     #Intern ID : COD4479
 

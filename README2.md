@@ -1,7 +1,7 @@
 # codtechitsolutions-internship
-Title : CodeTech IT Solutions Internship - Task Documentation: PYTHON TASK TWO -SIMPLE PYTHON CHATBOT
+*Title* : CodeTech IT Solutions Internship - Task Documentation: PYTHON TASK TWO -SIMPLE PYTHON CHATBOT
 
-Intern Information: Name: Md. Ammaar Quadri Intern ID : COD4479
+_Intern Information_: Name: Md. Ammaar Quadri Intern ID : COD4479
 
 Creating comprehensive documentation is essential for any project, and for a Python Chatbot project, it helps users understand the functionality, usage, and inner workings of the system. Below is a template for the documentation. It includes explanations for the code, images illustrating the program's execution, and user interactions.
 

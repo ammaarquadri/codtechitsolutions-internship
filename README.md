@@ -8,7 +8,6 @@
 <div align="center">
   <img src="https://github.com/maq765/codtechitsolutions-internship/raw/main/logo.jfif" alt="Logo" width="200"/>
 </div>
-![Logo](https://github.com/maq765/codtechitsolutions-internship/raw/main/logo.jfif)
 
 
 # Python Calculator Documentation

@@ -5,7 +5,7 @@
     #Name: Md. Ammaar Quadri
     #Intern ID : COD4479
 
-![Logo] (https://github.com/maq765/codtechitsolutions-internship/blob/main/logo.jfif)
+![Logo] (https://github.com/maq765/codtechitsolutions-internship/raw/main/logo.jfif)
 
 # Python Calculator Documentation
 
